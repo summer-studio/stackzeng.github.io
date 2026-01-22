@@ -1,7 +1,11 @@
 baseURL = "https://stackzeng.github.io/"
 languageCode = "zh-cn"
 title = "stackzeng"
+description = "记录个人思考、出海实践、独立开发与工具站构建的真实经验。"
+
 theme = "PaperMod"
+#theme = "hugo-theme-cleanwhite"
+
 
 [pagination]
   pagerSize = 10
