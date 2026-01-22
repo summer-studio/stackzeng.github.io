@@ -16,7 +16,7 @@ PayPal 中国近期正式推出支持个人卖家注册账户并进行全球收�
 
 ### **一、注册个人卖家账户**
 
-1. 打开 PayPal 中国官网注册[页面](https://www.paypal.cn/portal/account-selection)：
+1. 打开 PayPal 中国官网<a href="https://www.paypal.cn/portal/account-selection" target="_blank">注册页面</a>。
 
 2. 选择 **“个人卖家账户”**。
 
