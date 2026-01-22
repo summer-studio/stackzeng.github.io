@@ -2,7 +2,7 @@
 title: "我做工具站之后，最常用的 10 个 Ahrefs 免费 SEO 工具"
 date: 2025-06-22
 draft: false
-slug: "/10-best-free-ahrefs-seo-tools-for-tool-sites"
+slug: "/10-best-free-ahrefs-seo-tools"
 ---
 
 Ahrefs 官网藏着一整套免费的工具，不登录、不要会员，就能完成选关键词、看流量、查外链、分析对手这些核心动作。
