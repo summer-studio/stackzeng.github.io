@@ -1,6 +1,40 @@
-# IntelliJ project files
-.idea
+# ======================
+# Hugo generated files
+# ======================
+/public/
+/resources/_gen/
+.hugo_build.lock
+
+# ======================
+# OS / Editor
+# ======================
+.DS_Store
+Thumbs.db
+
+# VS Code
+.vscode/
+*.code-workspace
+
+# JetBrains
+.idea/
 *.iml
-out
-gen
-*.txt
+
+# ======================
+# Logs & temp
+# ======================
+*.log
+*.tmp
+*.swp
+*.bak
+
+# ======================
+# Node / front-end (如果你没用可以留着)
+# ======================
+node_modules/
+npm-debug.log*
+yarn-error.log*
+
+# ======================
+# Windows specific
+# ======================
+desktop.ini
