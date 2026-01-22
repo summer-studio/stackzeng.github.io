@@ -6,8 +6,8 @@ draft: false
 slug: "hello"
 cover:
   image: "/images/bingimg_20260121_1920x1200.jpg"
-  alt: "封面图"
-  caption: "这是一张封面"
+  alt: "image"
+  caption: "image"
 ---
 
 ## Show post reading time
