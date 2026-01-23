@@ -1,6 +1,6 @@
 ---
 title: "PayPal 中国开放个人卖家注册：不需要公司，也能全球收款了"
-tags: ["Payment"]
+tags: ["payment"]
 date: 2026-01-17
 draft: false
 slug: "paypal-personal"
