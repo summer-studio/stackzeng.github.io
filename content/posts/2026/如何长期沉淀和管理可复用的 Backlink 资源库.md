@@ -5,7 +5,7 @@ tags: ["Backlink"]
 draft: false
 slug: "manage-reusable-backlink-resource-library"
 cover:
-  image: "/images/2026/bingimg_20260126_1920x1080.jpg"
+  image: "/images/2026/bingimg_20260124_1920x1080.jpg"
 ---
 
 在实际做 Backlink 的过程中，常见的问题包括：

@@ -4,7 +4,7 @@ title: "About"
 
 ## 关于我
 
-你好，我是 stackzeng 👋
+Hey there，我是 stackzeng 👋
 
 目前主要关注 AI 工具、出海网站、独立开发，以及这些事情背后的一些个人思考。
 
