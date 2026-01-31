@@ -36,17 +36,17 @@ slug: "build-website-bolt-ai-tutorial"
 
 生成之后经过了几次调整，最终效果如下：
 
-![img](/images/出海/2024/Snipaste_2024-11-14_17-03-30.png)
+![img](/images/2024/Snipaste_2024-11-14_17-03-30.png)
 
 bolt 的优势是按照项目生成，而不是单一的文件。
 
 其它人工智能生成代码都是单一的文件，无法将代码整合成一个项目，包括文件拆分、文件夹拆分、函数拆分等等。
 
-![img](/images/出海/2024/Snipaste_2024-11-14_16-12-54.png)
+![img](/images/2024/Snipaste_2024-11-14_16-12-54.png)
 
 生成后自带预览和交互功能，可以直接在 Preview 界面直接运行。
 
-![img](/images/出海/2024/Snipaste_2024-11-14_15-31-58.png)
+![img](/images/2024/Snipaste_2024-11-14_15-31-58.png)
 
 生成完成后点击右上角的 download，在本地浏览器中打开 index.html 直接运行无任何错误。
 
